@@ -1,7 +1,7 @@
 # RequestSPY
 <p>A Python based non GUI tool built using the concepts of Prompt Engineering to check the requests recieved at server side and verifies wether the request is trying to exploit any vulnerability.</p>
 <p>The currrent version of tool in this repo works for apache2 and enginx servers on linux.</p>
-<b>Tools and skills: Python, Prompt  Engineering, servers, log files, OS, vulnerable requests, Pentesting, CyberSecurity.<+/b>
+<b>Tools and skills: Python, Prompt  Engineering, servers, log files, OS, vulnerable requests, Pentesting, CyberSecurity.</b>
 
 # Instalation steps:
 > Create a folder named RequestSPY.
