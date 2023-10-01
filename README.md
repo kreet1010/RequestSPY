@@ -8,7 +8,7 @@
 > Open terminal in that folder/ access that folder via terminal.
 > Type command <i>git clone https://github.com/kreet1010/RequestSPY.git</i>.
 > Access the python file holding the name of server that you are using and find a variable named openai_API and feed your api key value as a string to that variable.
-> To understandprocess to generate openai API key <a href="https://www.geeksforgeeks.org/openai-python-api/">click here</a>
+> To understand the process to generate openai API key <a href="https://www.geeksforgeeks.org/openai-python-api/">click here</a>
 
 # User guide:
 > Remember to start the virtual environment using the command <i>source ./bin/activate</i>
