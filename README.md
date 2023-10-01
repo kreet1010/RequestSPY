@@ -3,7 +3,7 @@
 <p>The currrent version of tool in this repo works for apache2 and enginx servers on linux.</p>
 <b>Tools and skills: Python, Prompt  Engineering, servers, log files, OS, vulnerable requests, Pentesting, CyberSecurity.</b>
 
-# Instalation steps:
+# Installation steps:
 > Create a folder named RequestSPY.
 > Open terminal in that folder/ access that folder via terminal.
 > Type command <i>git clone https://github.com/kreet1010/RequestSPY.git</i>.
